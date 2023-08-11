@@ -33,6 +33,8 @@ limited edition packaging?
 a. Which area of business should we focus more on our product development?
 (Branding/taste/availability)
 
+![Screenshot 2023-08-11 203533](https://github.com/gitap023/Challange_Project/assets/129049035/261ac46e-46ec-46c1-832f-c0ccb6100e49)
+
 Secondary Insights (Sample Sections / Questions)
 --------------------------
 Give 5 recommendations for CodeX (below are some samples)
