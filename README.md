@@ -33,7 +33,10 @@ limited edition packaging?
 a. Which area of business should we focus more on our product development?
 (Branding/taste/availability)
 
-![Screenshot 2023-08-11 203533](https://github.com/gitap023/Challange_Project/assets/129049035/261ac46e-46ec-46c1-832f-c0ccb6100e49)
+![Screenshot 2023-08-23 140619](https://github.com/gitap023/Challange_Project/assets/129049035/41afae44-2fca-4fb3-b05b-bbdd06639c7a)
+![Screenshot 2023-08-23 140543](https://github.com/gitap023/Challange_Project/assets/129049035/ab5d3142-829e-457c-9758-85a404cdf4f1)
+![Screenshot 2023-08-23 140432](https://github.com/gitap023/Challange_Project/assets/129049035/65124751-91f9-4f72-831b-17540e044556)
+![Screenshot 2023-08-23 140831](https://github.com/gitap023/Challange_Project/assets/129049035/0f57fdd5-a40c-46b9-8961-c5ac55a69989)
 
 Secondary Insights (Sample Sections / Questions)
 --------------------------
